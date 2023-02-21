@@ -7,4 +7,4 @@ Physics based flag simulation using unity
 
 Install Unity version 5.6.0 at https://unity.com/releases/editor/archive.
 
-Run the SampleScene in flag-project/Assets/Scenes/
+Run the SampleScene in Unity located in flag-project/Assets/Scenes/  
